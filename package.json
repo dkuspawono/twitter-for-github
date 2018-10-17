@@ -4,14 +4,14 @@
   "description": "Twitter handles for GitHub",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bevacqua/twitter-for-github.git"
+    "url": "https://github.com/dkuspawono/twitter-for-github.git"
   },
   "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bevacqua/twitter-for-github/issues"
+    "url": "https://github.com/dkuspawono/twitter-for-github/issues"
   },
-  "homepage": "https://github.com/bevacqua/twitter-for-github",
+  "homepage": "https://github.com/dkuspawono/twitter-for-github",
   "xo": {
     "space": true,
     "envs": [
@@ -28,4 +28,6 @@
   "devDependencies": {
     "xo": "*"
   }
+}
+"hex_colors":  {#000000 #f5f5de #caee68
 }
